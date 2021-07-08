@@ -1,0 +1,20 @@
+2021-07-07 18:03:19 [restartedMain] INFO  c.ibs.litmus.LoggingDemoApplication -
+				Starting LoggingDemoApplication using Java 15.0.1 on DESKTOP-DHA267I with PID 23536 (L:\Litmus Workspace 4\LoggingDemo\target\classes started by LENOVO in L:\Litmus Workspace 4\LoggingDemo)
+2021-07-07 18:03:19 [restartedMain] DEBUG c.ibs.litmus.LoggingDemoApplication -
+				Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-07 18:03:19 [restartedMain] INFO  c.ibs.litmus.LoggingDemoApplication -
+				No active profile set, falling back to default profiles: default
+2021-07-07 18:03:19 [restartedMain] INFO  c.ibs.litmus.LoggingDemoApplication -
+				Started LoggingDemoApplication in 0.643 seconds (JVM running for 2160.205)
+2021-07-07 18:04:17 [restartedMain] INFO  c.ibs.litmus.LoggingDemoApplication -
+				Starting LoggingDemoApplication using Java 15.0.1 on DESKTOP-DHA267I with PID 8440 (L:\Litmus Workspace 4\LoggingDemo\target\classes started by LENOVO in L:\Litmus Workspace 4\LoggingDemo)
+2021-07-07 18:04:18 [restartedMain] DEBUG c.ibs.litmus.LoggingDemoApplication -
+				Running with Spring Boot v2.5.2, Spring v5.3.8
+2021-07-07 18:04:18 [restartedMain] INFO  c.ibs.litmus.LoggingDemoApplication -
+				No active profile set, falling back to default profiles: default
+2021-07-07 18:04:22 [restartedMain] INFO  c.ibs.litmus.LoggingDemoApplication -
+				Started LoggingDemoApplication in 5.377 seconds (JVM running for 7.014)
+2021-07-07 18:04:44 [http-nio-8080-exec-2] DEBUG c.ibs.litmus.LoggingDemoApplication -
+				Request nia
+2021-07-07 18:04:44 [http-nio-8080-exec-2] DEBUG c.ibs.litmus.LoggingDemoApplication -
+				Response Hi nia Welcome...
